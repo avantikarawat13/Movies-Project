@@ -239,6 +239,6 @@ Implement predictive analytics models that combine genre, budget, director, star
 
 ```DAX
 Total Movies = COUNTROWS(movies)
-
-## 🔗 Author
+````
+### 🔗 Author
 Avantika Rawat
